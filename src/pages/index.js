@@ -35,7 +35,7 @@ const IndexPage = ({data}) => (
               <span className={styles.productName}>{node.title}</span>
               <Link
                 className={styles.viewProduct}
-                to={`products/${node.handle}`}
+                to={`/products/${node.handle}`}
               >
                 View
               </Link>

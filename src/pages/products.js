@@ -6,7 +6,7 @@ const ProductIndex = ({ data }) => {
   return (<ul style={{ margin: 0 }}>
     {data.allProducts.edges.map(({ node }, i) => (
       <li key={i}>
-        {node.title} <Link to={`products/${node.handle}`}>View</Link>
+        {node.title} <Link to={`/products/${node.handle}`}>View</Link>
       </li>
     ))}
   </ul>)

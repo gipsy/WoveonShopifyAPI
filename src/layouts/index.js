@@ -37,7 +37,7 @@ const Header = () => (
 );
 
 const Footer = () => (
-  <footer className={styles.footer}>View project on Github</footer>
+  <footer className={styles.footer}><a href="https://github.com/gipsy/WoveonShopifyAPI">View project on Github</a></footer>
 );
 
 const TemplateWrapper = ({children, data, ...props}) => (
