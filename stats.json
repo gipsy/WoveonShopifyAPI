@@ -1,41 +1,41 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-5d81f4890d7955531654.js",
-      "component---src-pages-index-js-5d81f4890d7955531654.js.map"
+      "component---src-pages-index-js-5bd28318e4a6bd4d43d5.js",
+      "component---src-pages-index-js-5bd28318e4a6bd4d43d5.js.map"
     ],
     "path---products": [
-      "path---products-85a32774d0edf0416513.js",
-      "path---products-85a32774d0edf0416513.js.map"
+      "path---products-9620d74aeb43b4a4f612.js",
+      "path---products-9620d74aeb43b4a4f612.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---products-xgimi-h-1-projector": [
-      "path---products-xgimi-h-1-projector-472c9f25bcff869c5c96.js",
-      "path---products-xgimi-h-1-projector-472c9f25bcff869c5c96.js.map"
+      "path---products-xgimi-h-1-projector-3dfb04d0856c297d8329.js",
+      "path---products-xgimi-h-1-projector-3dfb04d0856c297d8329.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-cb5c5e8e8b814d1928ba.js",
-      "component---src-layouts-index-js-cb5c5e8e8b814d1928ba.js.map"
+      "component---src-layouts-index-js-ad7e8bef02a2bbe572fe.js",
+      "component---src-layouts-index-js-ad7e8bef02a2bbe572fe.js.map"
     ],
     "component---src-templates-product-js": [
-      "component---src-templates-product-js-33221f6dffb16f7f3cee.js",
-      "component---src-templates-product-js-33221f6dffb16f7f3cee.js.map"
+      "component---src-templates-product-js-421fcee4122b00f17c48.js",
+      "component---src-templates-product-js-421fcee4122b00f17c48.js.map"
     ],
     "path---index": [
-      "path---index-4e352eed17cfc71eb5e8.js",
-      "path---index-4e352eed17cfc71eb5e8.js.map"
+      "path---index-93542446475fb0909254.js",
+      "path---index-93542446475fb0909254.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-deba7ca7a5c34e4891b9.js",
+      "commons-613677109f01dc47906c.js",
       "build-js-styles.css",
-      "commons-deba7ca7a5c34e4891b9.js.map",
+      "commons-613677109f01dc47906c.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -43,8 +43,8 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---products-24-dell-ultrasharp-u-2410-for-professionals-designers": [
-      "path---products-24-dell-ultrasharp-u-2410-for-professionals-designers-ad8205fdb5c9a4c763f2.js",
-      "path---products-24-dell-ultrasharp-u-2410-for-professionals-designers-ad8205fdb5c9a4c763f2.js.map"
+      "path---products-24-dell-ultrasharp-u-2410-for-professionals-designers-c53abc8d09b87a0c90d1.js",
+      "path---products-24-dell-ultrasharp-u-2410-for-professionals-designers-c53abc8d09b87a0c90d1.js.map"
     ],
     "app": [
       "app-153bd3cc964ea4c68cd5.js",
