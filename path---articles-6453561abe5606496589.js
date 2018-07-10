@@ -1,2 +1,0 @@
-webpackJsonp([56932394960959],{402:function(e,t){e.exports={data:{allArticles:{edges:[{node:{id:"Z2lkOi8vc2hvcGlmeS9BcnRpY2xlLzIyMjUyNzUxMA==",title:"Here's a test article"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---articles-6453561abe5606496589.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([52980637720156],{392:function(e,t){e.exports={data:{allProducts:{edges:[{node:{id:"Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzEzMDk5OTYxNTQ5Njc=",title:"XGIMI H1 projector",handle:"xgimi-h1-projector"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---products-6ae0055385450350d52b.js.map
