@@ -1,0 +1,2 @@
+webpackJsonp([0xd3ed2e1c76cf],{260:function(e,t,a){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.query=void 0;var l=a(2),r=u(l),n=a(41),d=u(n),c=function(e){var t=e.data;return r.default.createElement("ul",{style:{margin:0}},t.allProducts.edges.map(function(e){var t=e.node;return r.default.createElement("li",null,t.title," ",r.default.createElement(d.default,{to:"products/"+t.handle},"View"))}))};t.query="** extracted graphql fragment **";t.default=c}});
+//# sourceMappingURL=component---src-pages-products-js-f23972f28e63287a8f79.js.map
